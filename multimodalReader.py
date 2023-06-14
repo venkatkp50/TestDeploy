@@ -7,7 +7,6 @@ from haystack import Pipeline
 
 
 
-
 # tutorial_running(19)
 
 def getImage(query):

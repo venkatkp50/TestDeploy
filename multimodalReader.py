@@ -1,4 +1,4 @@
-from haystack.telemetry import tutorial_running
+# from haystack.telemetry import tutorial_running
 from haystack.document_stores import InMemoryDocumentStore
 from haystack import Document
 from haystack.nodes.retriever.multimodal import MultiModalRetriever
